@@ -1,0 +1,31 @@
+﻿Country Name,Country Code,Series,Series Code,2001 [YR2001],2002 [YR2002],2003 [YR2003],2004 [YR2004],2005 [YR2005],2006 [YR2006],2007 [YR2007],2008 [YR2008],2009 [YR2009],2010 [YR2010],2011 [YR2011]
+Spain,ESP,Government expenditure on education as % of GDP (%),SE.XPD.TOTL.GD.ZS,4.11127,4.13457,4.17343,4.15786,4.14432,4.18482,4.25405,4.52806,4.912,4.85608,4.89692
+Spain,ESP,"Gross enrolment ratio, primary, female (%)",SE.PRM.ENRR.FE,103.62152,103.12876,102.8675,103.11266,102.34935,102.962,103.54627,104.15628,104.13446,103.57508,104.14684
+Spain,ESP,"Gross enrolment ratio, primary, gender parity index (GPI)",SE.ENR.PRIM.FM.ZS,0.9925,0.99121,0.98959,0.99001,0.98672,0.98581,0.98875,0.99066,0.99158,0.99253,0.99241
+Spain,ESP,"Out-of-school children of primary school age, both sexes (number)",SE.PRM.UNER,3369,2255,266,962,3381,3886,1437,234,1370,1785,1223
+Spain,ESP,Annual statutory teacher salaries in public institutions in USD. Upper Secondary. Top of scale,OECD.TSAL.3.ETOP,45345.07881,47323.26647,49712.45336,51225.3552,53120.4457,53781.65806,55779.04,59234.18828,65266.98351,59268.72238,56536.40658
+Spain,ESP,Annual statutory teacher salaries in public institutions in USD. Upper Secondary. Starting salary,OECD.TSAL.3.E0,31345.22756,32678.52182,34613.99161,35792.31673,36610.98066,37956.8897,39366.56,42440.2231,46608.89013,42324.68737,40308.29329
+Spain,ESP,Percentage of total aid to education allocated to least developed countries (%),UIS.AIDEDUC.LOWINCOMECOUNT,..,..,..,..,..,..,..,..,..,12.3117,12.32311
+Spain,ESP,"Government expenditure on tertiary education, PPP$ (millions)",UIS.X.PPP.5T8.FSGOV,8793.30335,9536.38228,10227.77972,10672.01633,11170.30232,12685.93921,14268.51407,15974.81202,16700.93734,16803.55956,17093.21565
+Spain,ESP,"Government expenditure on tertiary education, constant PPP$ (millions)",UIS.X.PPPCONST.5T8.FSGOV,13767.18334,14246.6437,15053.42623,15249.49059,15391.06554,16097.76085,17419.57459,18882.58221,19498.7282,19819.00452,19822.9197
+Spain,ESP,Current expenditure other than staff compensation as % of total expenditure in tertiary public institutions (%),UIS.XSPENDP.56.FDPUB.FNNONS,15.60068,16.10343,15.9916,16.20233,15.93969,15.91814,18.5851,17.98761,18.40123,18.55519,18.55519
+Spain,ESP,Capital expenditure as % of total expenditure in tertiary public institutions (%),UIS.XSPENDP.56.FDPUB.FNCAP,20.01808,19.51219,20.20374,19.00821,16.84327,18.1432,19.5868,20.64117,18.78319,18.41957,18.41957
+Spain,ESP,Current expenditure as % of total expenditure in tertiary public institutions (%),UIS.XSPENDP.56.FDPUB.FNCUR,79.98192,80.48781,79.79626,80.99179,83.15673,81.8568,80.4132,79.35883,81.21681,81.58043,81.58043
+Spain,ESP,Government expenditure on tertiary education as % of GDP (%),UIS.XGDP.56.FSGOV,0.93757,0.94443,0.96901,0.95191,0.9269,0.93125,0.97265,1.04507,1.12137,1.13794,1.14751
+Spain,ESP,"Government expenditure on tertiary education, constant US$ (millions)",UIS.X.USCONST.5T8.FSGOV,9799.67892,10140.96569,10715.24509,10854.80651,10955.5816,11458.61748,12399.50349,13440.89334,13879.4749,14107.45219,14110.23907
+Spain,ESP,"Government expenditure on tertiary education, US$ (millions)",UIS.X.US.5T8.FSGOV,5881.23669,6661.93394,8774.34989,10157.76136,10689.76122,11727.6264,14318.74487,16984.77955,16658.94137,16166.9328,16969.03017
+United Kingdom,GBR,Government expenditure on education as % of GDP (%),SE.XPD.TOTL.GD.ZS,4.11923,4.63887,4.80467,4.73879,4.93914,4.98531,4.91482,4.89331,5.07432,5.70324,5.59523
+United Kingdom,GBR,"Gross enrolment ratio, primary, female (%)",SE.PRM.ENRR.FE,100.29372,99.89481,100.08469,105.97256,106.33244,105.32282,103.45207,104.8792,104.10147,104.26413,104.35634
+United Kingdom,GBR,"Gross enrolment ratio, primary, gender parity index (GPI)",SE.ENR.PRIM.FM.ZS,1.00124,1.00141,1.00178,1.00069,0.99901,1.00474,1.00401,0.99661,0.99704,0.99458,0.9987
+United Kingdom,GBR,"Out-of-school children of primary school age, both sexes (number)",SE.PRM.UNER,2917,8041,4091,26088,90,15484,95024,43699,78095,68120,70472
+United Kingdom,GBR,Annual statutory teacher salaries in public institutions in USD. Upper Secondary. Top of scale,OECD.TSAL.3.ETOP,..,..,..,..,..,..,..,..,..,..,..
+United Kingdom,GBR,Annual statutory teacher salaries in public institutions in USD. Upper Secondary. Starting salary,OECD.TSAL.3.E0,..,..,..,..,..,..,..,..,..,..,..
+United Kingdom,GBR,Percentage of total aid to education allocated to least developed countries (%),UIS.AIDEDUC.LOWINCOMECOUNT,..,..,..,..,..,..,..,..,..,42.84892,39.39469
+United Kingdom,GBR,"Government expenditure on tertiary education, PPP$ (millions)",UIS.X.PPP.5T8.FSGOV,11045.32391,15710.3048,16385.58672,16503.14119,21112.44322,19773.802,18073.43014,16780.23482,16521.83368,20398.014,28222.64753
+United Kingdom,GBR,"Government expenditure on tertiary education, constant PPP$ (millions)",UIS.X.PPPCONST.5T8.FSGOV,15500.99825,21521.56739,21839.45017,21721.64501,26779.95546,25148.96934,22042.11701,20311.15602,19212.22226,23589.87347,31800.78831
+United Kingdom,GBR,Current expenditure other than staff compensation as % of total expenditure in tertiary public institutions (%),UIS.XSPENDP.56.FDPUB.FNNONS,..,..,..,..,..,..,..,..,..,..,..
+United Kingdom,GBR,Capital expenditure as % of total expenditure in tertiary public institutions (%),UIS.XSPENDP.56.FDPUB.FNCAP,..,..,..,..,..,..,..,..,..,..,..
+United Kingdom,GBR,Current expenditure as % of total expenditure in tertiary public institutions (%),UIS.XSPENDP.56.FDPUB.FNCUR,..,..,..,..,..,..,..,..,..,..,..
+United Kingdom,GBR,Government expenditure on tertiary education as % of GDP (%),UIS.XGDP.56.FSGOV,0.71006,0.95737,0.94944,0.91427,1.10104,1.00212,0.85449,0.76871,0.72917,0.93503,1.23638
+United Kingdom,GBR,"Government expenditure on tertiary education, constant US$ (millions)",UIS.X.USCONST.5T8.FSGOV,14413.45763,20011.62731,20307.20763,20197.6676,24901.09007,23384.53294,20495.65548,18886.13766,17864.30443,21934.82229,29569.66433
+United Kingdom,GBR,"Government expenditure on tertiary education, US$ (millions)",UIS.X.US.5T8.FSGOV,11771.45076,15703.18123,16942.50511,18770.17433,26611.38045,25440.57818,23188.79281,23836.66267,21311.06985,22542.71312,30603.44923
