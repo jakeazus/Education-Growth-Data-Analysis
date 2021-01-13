@@ -1,7 +1,7 @@
 # data-analysis-project-1
-#TeamReadME
+# TeamReadME
 
-#Wasif Write Up Summary
+# Wasif Write Up Summary
 #1. How has the population of the official age for secondary education changed from 2001 to 2011 for the UK and Spain?
 - Population has remained relatively stable over the ten-year period for both the UK and Spain.
 - The UK’s population has been some 2 million higher than Spain through out the ten-year period.
@@ -12,7 +12,7 @@ Secondary education - typically takes place after six years of primary education
 - However, Spain’s population has steadily declined over the same ten-year period.
 Tertiary education - educational level following the completion of secondary education. The world bank defines tertiary education as including universities as well as trade schools and colleges.
 
-Jake Write Up Summary
+# Jake Write Up Summary
 
 #1. How has the labor force % with advanced education changed from 2001 to 2011 for the UK and Spain?
  - For both the UK and Spain, the percentage of labor force seemed pretty constant for both male and female with exception to females in Spain. 
@@ -25,7 +25,7 @@ Jake Write Up Summary
  - It’s important to understand  that unemployment % for Spain is a lot higher than both the UK and US due to their smaller labor force total. For instance, the US labor force is comprised of approximately 164 million people compared to Spain’s labor force of only 23 million people.
 
 
-Chandler Write Up Summary
+# Chandler Write Up Summary
 
 #1. 
 
@@ -33,7 +33,7 @@ Chandler Write Up Summary
 #2. 
 
 
-Sharice Write Up Summary
+# Sharice Write Up Summary
 
 #1.Evaluating the percentage of Male and Female enrollments in science tertiary programs in the UK and Spain between the years 2001 to 2011:
 . Both the UK and Spain Males enrolled in science program with a higher percentage than the females.
@@ -46,7 +46,7 @@ Sharice Write Up Summary
 
 
 
-Lizabeth write Up Summary
+# Lizabeth write Up Summary
 
 
 
