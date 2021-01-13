@@ -34,6 +34,7 @@ Chandler Write Up Summary
 
 
 Sharice Write Up Summary
+
 #1.Evaluating the percentage of Male and Female enrollments in science tertiary programs in the UK and Spain between the years 2001 to 2011:
 . Both the UK and Spain Males enrolled in science program with a higher percentage than the females.
 . Both countries and genders peaked in 2010 with the enrollment science program.
