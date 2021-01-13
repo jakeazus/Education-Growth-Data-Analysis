@@ -1,7 +1,7 @@
 # data-analysis-project-1
 #TeamReadME
 
-Wasif Write Up Summary
+#Wasif Write Up Summary
 #1. How has the population of the official age for secondary education changed from 2001 to 2011 for the UK and Spain?
 - Population has remained relatively stable over the ten-year period for both the UK and Spain.
 - The UK’s population has been some 2 million higher than Spain through out the ten-year period.
@@ -36,12 +36,10 @@ Chandler Write Up Summary
 Sharice Write Up Summary
 
 #1.Evaluating the percentage of Male and Female enrollments in science tertiary programs in the UK and Spain between the years 2001 to 2011:
-
 . Both the UK and Spain Males enrolled in science program with a higher percentage than the females.
 . Both countries and genders peaked in 2010 with the enrollment science program.
 
 #2.Evaluating the percentage of Male and female graduates in science tertiary programs in the UK and Spain between the years 2001 to 2011:
-
 . The UK & Spain Males and the UK & Spain females were on the same trajectory until 2010.
 . Both UK Male and Female peaked in 2010 while both Spain Male and Female stayed flat.
 
