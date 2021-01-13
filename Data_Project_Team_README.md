@@ -13,10 +13,15 @@ Tertiary education - educational level following the completion of secondary edu
 
 Jake Write Up Summary
 
-#1. 
+#1. How has the labor force % with advanced education changed from 2001 to 2011 for the UK and Spain?
+ - For both the UK and Spain, the percentage of labor force seemed pretty constant for both male and female with exception to females in Spain. 
+ - Based on a study on the Spain labor force, from 1994-2013, occupations in services such as  clerical, service/sales, and professional/elementary became female dominant in the labor market. This can directly correlate with the increase in advanced education for females in Spain from 2001-2011.
+ - It’s also important to note  the labor force for both male and females with advanced education most likely had a sharp drop in 2008 due to the massive recession in the US. The 2008 recession clearly had a significant impact on the UK economy. 
 
-#2. 
-
+#2. How has unemployment varied from 2001-2011 for the UK, Spain, and the United States?
+ - Based on the graph, it's interesting to see that unemployment was static from 2001 until 2006 as we can attribute good economic conditions for all three countries during this time.
+ - From 2006 to 2011 there was a steady rise in unemployment due to the global recession that all the UK, Spain, and United States all experienced. The more people with advanced educations would result in more jobs lost in the labor force.
+ - It’s important to understand  that unemployment % for Spain is a lot higher than both the UK and US due to their smaller labor force total. For instance, the US labor force is comprised of approximately 164 million people compared to Spain’s labor force of only 23 million people.
 
 
 Chandler Write Up Summary
