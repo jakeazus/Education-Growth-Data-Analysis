@@ -1,1 +1,1 @@
-# Project - 1 - Education Comparison of the United Kingdom and Spain
+# Project - 1 - Education Analysis of the United Kingdom and Spain
