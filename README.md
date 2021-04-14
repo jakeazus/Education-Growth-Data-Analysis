@@ -4,7 +4,7 @@ This project focuses on the growth of education between the United Kingdom and S
 
 ## Indicator Visualizations
 
-![advanced_education_graph](https://user-images.githubusercontent.com/13200513/114736571-2de7ba00-9d14-11eb-8123-02f76829ea96.png)![govt_expenditure_gdp](https://user-images.githubusercontent.com/13200513/114736596-37712200-9d14-11eb-9d37-a3e393cdabe0.png)
+![advanced_education_graph](https://user-images.githubusercontent.com/13200513/114736571-2de7ba00-9d14-11eb-8123-02f76829ea96.png). ![govt_expenditure_gdp](https://user-images.githubusercontent.com/13200513/114736596-37712200-9d14-11eb-9d37-a3e393cdabe0.png)
 
 
 ![unemployment_pie_graph_spain](https://user-images.githubusercontent.com/13200513/114736674-4952c500-9d14-11eb-8668-c7b0f21fbf28.png).![unemployment_line_graph](https://user-images.githubusercontent.com/13200513/114737169-bebe9580-9d14-11eb-804c-36536e9bd33d.png)
