@@ -10,7 +10,10 @@ This project focuses on the growth of education between the United Kingdom and S
 ![unemployment_pie_graph_spain](https://user-images.githubusercontent.com/13200513/114736674-4952c500-9d14-11eb-8668-c7b0f21fbf28.png)     ![unemployment_line_graph](https://user-images.githubusercontent.com/13200513/114737169-bebe9580-9d14-11eb-804c-36536e9bd33d.png)
 
 
-
+# Process
+ - Found primary dataset containing country information from Kaggle.com
+ - [Cleaned CSV in Jupyter Notebook using various functions](jake/jakes-project-notebook-1.ipynb)
+ -  
 
 ## Findings
 1. How has the population of the official age for secondary education changed from 2001 to 2011 for the UK and Spain?
