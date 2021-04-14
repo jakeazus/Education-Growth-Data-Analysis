@@ -4,7 +4,8 @@ This project focuses on the growth of education between the United Kingdom and S
 
 ## Indicator Visualizations
 
-https://raw.githubusercontent.com/jakeazus/data-analysis-project-1/main/images/advanced_education_graph.png
+![Screen Shot 2021-04-14 at 11 22 30 AM](https://user-images.githubusercontent.com/13200513/114736002-b7e35300-9d13-11eb-8b3a-cd5931c70884.png)
+
 
 ## Findings
 1. How has the population of the official age for secondary education changed from 2001 to 2011 for the UK and Spain?
