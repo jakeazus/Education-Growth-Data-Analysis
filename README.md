@@ -2,6 +2,10 @@
 ## Overview
 This project focuses on the growth of education between the United Kingdom and Spain based on various indicators. These indicators were found using a dataset that contained educational stats for European countries. We analyzed factors such as the percentage of the labor force with advanced education, government expenditure on education, unemployment, and the percentage of enrollment for both Male and Female in science tertiary programs. The period of time that are analysis focused on was from 2001 to 2011 as this timeframe was most relatable from the dataset we used. To document our findings with the indicators, we used Jupyter notebook to create several visualizations comparing the UK and Spain. 
 
+## Indicator Visualizations
+
+https://raw.githubusercontent.com/jakeazus/data-analysis-project-1/main/images/advanced_education_graph.png
+
 ## Findings
 1. How has the population of the official age for secondary education changed from 2001 to 2011 for the UK and Spain?
 - Population has remained relatively stable over the ten-year period for both the UK and Spain.
